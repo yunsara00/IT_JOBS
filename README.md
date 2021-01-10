@@ -1,6 +1,6 @@
 # 구인구직 플랫폼 프로젝트
 pdf 파일  -> [IT_JOB.pdf](https://github.com/yunsara00/IT_JOBS/files/5793122/IT_JOB.pdf)
-
+<br/><br/>
 
 
 ![IT_JOB_sara (1)](https://user-images.githubusercontent.com/70271012/104132143-cccfe380-53be-11eb-9507-ea0760d44101.png)
