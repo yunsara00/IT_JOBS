@@ -1,6 +1,5 @@
 # IT JOBS project
 
-![IT_JOB_sara](https://user-images.githubusercontent.com/70271012/104132140-cb062000-53be-11eb-94a9-f77ec7729450.png)
 ![IT_JOB_sara (1)](https://user-images.githubusercontent.com/70271012/104132143-cccfe380-53be-11eb-9507-ea0760d44101.png)
 ![IT_JOB_sara (2)](https://user-images.githubusercontent.com/70271012/104132146-ce99a700-53be-11eb-8f6c-9301a65f2ec6.png)
 ![IT_JOB_sara (3)](https://user-images.githubusercontent.com/70271012/104132149-d0fc0100-53be-11eb-80d0-53e5e598b739.png)
